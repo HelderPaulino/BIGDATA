@@ -14,3 +14,31 @@ print(idade)
 #imprimir variáveis usando fstring
 
 print(f"Seu nome é {nome} e você tem {idade} anos")
+
+# Adição
+
+numero1 = 10
+
+numero2 = 50
+
+soma = numero1 + numero2
+
+print(soma)
+
+print(f"A soma entre {numero1} e {numero2} é igual {soma}")
+
+print(f"A soma entre {numero1} e {numero2} é igual {numero2+numero1}")
+
+# Subtração
+
+numero1 = 80
+
+numero2 = 50
+
+subtração = numero1 - numero2
+
+print(subtração)
+
+print(f"A subtração entre {numero1} e {numero2} é igual {subtração}")
+
+print(f"A subtração entre {numero1} e {numero2} é igual {numero2-numero1}")
